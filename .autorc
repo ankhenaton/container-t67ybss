@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ankhenaton",
+  "repo": "container-t67ybss",
+  "name": "ankhenaton",
+  "email": "serkanmaviserit@gmail.com",
+}
